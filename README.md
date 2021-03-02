@@ -1,8 +1,8 @@
 # 23cm-amplifier
 
-![alt text](https://github.com/LarsHorvath/23cm-amplifier/images/PCB_3D.PNG "PCB")
+![alt text](https://github.com/LarsHorvath/23cm-amplifier/blob/master/images/PCB_3D.PNG "PCB")
 
-## PCB for YP2233W power amplifier from innotion [see Datasheet](https://github.com/LarsHorvath/23cm-amplifier/datasheets/innotion_yp2233w.pdf)
+## PCB for YP2233W power amplifier from innotion [see Datasheet](https://github.com/LarsHorvath/23cm-amplifier/blob/master/datasheets/innotion_yp2233w.pdf)
 
 ### Overview
 This PCB is designed to operate at 1.25 GHz.
